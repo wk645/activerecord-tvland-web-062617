@@ -16,3 +16,4 @@ class CreateNetworks < ActiveRecord::Migration
     end
   end
 end
+
